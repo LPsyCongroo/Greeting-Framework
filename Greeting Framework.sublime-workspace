@@ -1,0 +1,515 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"va",
+				"validate"
+			],
+			[
+				"for",
+				"formalGreeting"
+			],
+			[
+				"gree",
+				"greet"
+			],
+			[
+				"min",
+				"minutesDegrees"
+			],
+			[
+				"minut",
+				"minuteHand"
+			],
+			[
+				"hou",
+				"hour-hand"
+			],
+			[
+				"second",
+				"secondsDegreee"
+			],
+			[
+				"secon",
+				"secondHand"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"tex",
+				"text-indent"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"bs",
+				"border-style"
+			],
+			[
+				"bc",
+				"border-color"
+			],
+			[
+				"fs",
+				"font-style"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"ta",
+				"text-align"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"padi",
+				"padding-right"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"header",
+				"header"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"heade",
+				"headerWrapper"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background-position"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"c",
+				"content"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"one",
+				"one-third"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"FON",
+				"font-size"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"inlin",
+				"inline"
+			],
+			[
+				"f",
+				"one-fourth"
+			],
+			[
+				"al",
+				"Alegreya"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"inline",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "framework.js",
+			"settings":
+			{
+				"buffer_size": 3656,
+				"line_ending": "Windows",
+				"name": "(function(global, $){"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 500,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 145,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "jquery-3.2.1.js",
+			"settings":
+			{
+				"buffer_size": 268039,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 251.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ali/Documents/JS30/JS Clock/app.js",
+		"/C/Users/ali/Documents/JS30/JS Clock/index-START.html",
+		"/C/Users/ali/Documents/Campaign Template/rocket.svg",
+		"/C/Users/ali/Documents/Campaign Template/styles.css",
+		"/C/Users/ali/Documents/Campaign Template/index.html",
+		"/C/Users/ali/Documents/QuoteMachine/index.html",
+		"/C/Users/ali/Downloads/single-page-smooth-scroll-soure/single-page-smooth-scroll-soure/js/jquery.scrollto.js",
+		"/C/Users/ali/Downloads/single-page-smooth-scroll-soure/single-page-smooth-scroll-soure/js/jquery.nav.js",
+		"/C/Users/ali/Downloads/single-page-smooth-scroll-soure/single-page-smooth-scroll-soure/js/jquery-1.9.1.min.js",
+		"/C/Users/ali/Downloads/single-page-smooth-scroll-soure/single-page-smooth-scroll-soure/index.html",
+		"/C/Users/ali/Documents/GitHub/rocketdesign/rocket-tutorial/Rocket Design Starter Files/style.css",
+		"/C/Users/ali/Documents/GitHub/rocketdesign/rocket-tutorial/Rocket Design Starter Files/index.html",
+		"/C/Users/ali/Documents/GitHub/portfolio/style.css",
+		"/C/Users/ali/Documents/GitHub/portfolio/index.html",
+		"/C/Users/ali/Desktop/font-awesome-4.7.0/css/font-awesome.min.css",
+		"/C/Users/ali/Documents/GitHub/Portfolio-Page/README.md",
+		"/C/Users/ali/Documents/CSSZENGARDEN/style.css",
+		"/C/Users/ali/Documents/CSSZENGARDEN/CSS Zen Garden  The Beauty of CSS Design.htm",
+		"/C/Users/ali/Documents/styles.css",
+		"/C/Users/ali/Documents/index.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"78b"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "framework.js",
+					"settings":
+					{
+						"buffer_size": 3656,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"auto_name": "(function(global, $){",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 500,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								480,
+								480
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app.js",
+					"settings":
+					{
+						"buffer_size": 145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								142,
+								142
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "jquery-3.2.1.js",
+					"settings":
+					{
+						"buffer_size": 268039,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 162.0,
+	"status_bar_visible": true
+}
